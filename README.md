@@ -11,3 +11,5 @@ GitHub Explorer is a sleek, responsive web application that allows users to sear
 * CSS3: For styling, layout, and responsive design.
 * JavaScript (Vanilla): For DOM manipulation and asynchronous API calls.
 * GitHub REST API: For fetching user data.
+
+Deployed Link: https://git-hub-explorer-phi.vercel.app/
